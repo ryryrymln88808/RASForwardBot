@@ -9,7 +9,7 @@ class Translation(object):
 ɪ ᴄᴀɴ ғᴏʀᴡᴀʀᴅ ᴀʟʟ ᴍᴇssᴀɢᴇ ғʀᴏᴍ ᴏɴᴇ ᴄʜᴀɴɴᴇʟ ᴛᴏ ᴀɴᴏᴛʜᴇʀ ᴄʜᴀɴɴᴇʟ</i> <b>➜ ᴡɪᴛʜ ᴍᴏʀᴇ ғᴇᴀᴛᴜʀᴇs.
 ᴄʟɪᴄᴋ ʜᴇʟᴘ ʙᴜᴛᴛᴏɴ ᴛᴏ ᴋɴᴏᴡ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ᴍᴇ</b>
 
-<b>👨🏼‍💻 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ: <a href='https://t.me/mswpresent'>𝕄𝕤ᴡ ℙʀᴇ𝕤ᴇɴᴛ𝕤™</a>🥀</b>"""
+<b>👨🏼‍💻 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ: <a href='https://t.me/RS_Movie'>RAS ℙʀᴇ𝕤ᴇɴᴛ𝕤™</a>🥀</b>"""
 
 
   HELP_TXT = """<b><u>🔆 HELP</b></u>
@@ -41,9 +41,9 @@ class Translation(object):
   
   ABOUT_TXT = """<b>╭──────❰ 🤖 Bot Details ❱──────〄
 │ 
-│ 🤖 Mʏ Nᴀᴍᴇ : <a href=https://t.me/MswForwardBot>𝕄𝕤ᴡ ғᴏʀᴡᴀʀᴅ ʙᴏᴛ</a>
-│ 👨‍💻 ᴅᴇᴠᴘʟᴏᴇʀ : <a href=https://t.me/Lt_Ankush>┈━═.•°αηкυѕн уα∂αν°•.═━┈</a>
-│ 🤖 ᴜᴘᴅᴀᴛᴇ  : <a href=https://t.me/mswpresent>𝕄𝕤ᴡ ℙʀᴇ𝕤ᴇɴᴛ𝕤™ </a>
+│ 🤖 Mʏ Nᴀᴍᴇ : <a href=https://t.me/RS_Movie>RAS ғᴏʀᴡᴀʀᴅ ʙᴏᴛ</a>
+│ 👨‍💻 ᴅᴇᴠᴘʟᴏᴇʀ : <a href=https://t.me/RS_Movie>RS_Movie</a>
+│ 🤖 ᴜᴘᴅᴀᴛᴇ  : <a href=https://t.me/RS_Movie>RAS ℙʀᴇ𝕤ᴇɴᴛ𝕤™ </a>
 │ 📡 ʜᴏsᴛ ᴏɴ : <a href=https://www.hetzner.com/>ʜᴇᴛᴢɴᴇʀ</a>
 │ 🗣️ ʟᴀɴɢᴜᴀɢᴇ  : ᴘʏᴛʜᴏɴ 3 
 {python_version}
